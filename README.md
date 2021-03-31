@@ -1,5 +1,5 @@
 - 👋 Hi, I’m frog
 - 👀 I’m interested in eat bug
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java, HTML, C++,  and Python
 - 💞️ I’m already in a collab
 - 📫 How to reach me: Dhel7r#1691
